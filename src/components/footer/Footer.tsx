@@ -1,4 +1,4 @@
-import React from 'react';
+
 import "./footer.css";
 import { FaFacebook } from 'react-icons/fa';
 import { FiInstagram } from 'react-icons/fi';
@@ -8,7 +8,7 @@ import { IoLogoTwitter } from "react-icons/io";
 const Footer = () => {
   return (
     <footer id="footer__">
-      <a href="#footer__" className='footer_logo'>RESMAN</a>
+      <a href="#footer__" className='footer_logo'>Mcpherson</a>
 
       <ul className='permalinks'>
         <li><a href="#home__">Home</a></li>
@@ -27,7 +27,7 @@ const Footer = () => {
       </div>
 
       <div className="footer_copyright">
-        <small>&copy; Resman Technologies. All rights reserved.</small>
+        <small>&copy; Mcpherson Technologies. All rights reserved.</small>
       </div>
     </footer>
   )

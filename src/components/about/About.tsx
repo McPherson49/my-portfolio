@@ -1,13 +1,13 @@
 
 import "./about.css";
-import ME from "../../assets/me.jpeg";
+import ME from "../../assets/Peter.png";
 import { FaAward } from 'react-icons/fa';
 import {FiUsers} from "react-icons/fi";
 import {VscFolderLibrary} from "react-icons/vsc";
 
 const about_data = {
   summary: "I am a developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.",
-  experience: "2",
+  experience: "3",
   clients: "10",
   projects: "10",
   aboutImage: ME
